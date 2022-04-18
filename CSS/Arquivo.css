@@ -1,0 +1,31 @@
+div.cabecalho{background: rgb(200,150,0);}
+.cabecalho img{
+
+	height: 80px;
+	width: 80px;
+	margin-left: 70px;
+	margin-top: 5px
+
+}
+.imagens img:hover{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%
+
+}
+
+.imagens img {
+
+	margin-top: 20px;
+	height: 150px;
+	width: 200px;
+
+}
+
+div.imagens{margin-left: 12.5%; border: 3px solid green}
+
+.galeria img {
+	margin-left: 12.5%;
+	height: 800px;
+	width: 1020px
+}
